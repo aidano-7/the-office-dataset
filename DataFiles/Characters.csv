@@ -9,7 +9,7 @@ CharacterID,CharacterName,CharacterOccupation
 7,Andy Bernand,"Salesman,Dunder Mifflin Branch Manager,Cornell Admissions Director"
 8,Angela Martin,Accountant
 9,Angelo Grotti,"Insurance Salesman,Mobster"
-10,Arnie Rissman,Hamermill Representative
+10,Arnie Rissman,Hammermill Representative
 11,Asian Jim,Actor
 12,Astrid Levinson,Kid
 13,Aunt Shirley, None
@@ -25,7 +25,7 @@ CharacterID,CharacterName,CharacterOccupation
 23,Brian,Boom Operator
 24,Broccoli Rob,Cornell Employee
 25,Mr. Brown,Diversity Today Trainer
-26,Bruce,Warehouse worker
+26,Bruce,Warehouse Worker
 27,Captin Jack,Boat Captain
 28,Carla,Youth Minister
 29,Carla Fern,Talent Agent
@@ -72,4 +72,9 @@ CharacterID,CharacterName,CharacterOccupation
 70,Erin's Father,None
 71,Erin's Mother,None
 72,Esther Bruegger,Brussels Sprouts Farmer
-73,Evan,Hamermill Representative
+73,Evan,Hammermill Representative
+74,Fannie Schrute,None
+75,Fern Widgale,None
+76,Finger Lakes Guy,None
+77,Frank,Warehouse Worker
+78,Fred Henry,None
