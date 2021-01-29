@@ -13,7 +13,7 @@ CharacterID,CharacterName,CharacterOccupation
 11,Asian Jim,Actor
 12,Astrid Levinson,Kid
 13,Aunt Shirley, None
-14,Barbara Allen,Unknown
+14,Barbara Allen,None
 15,Barbara Keevis,Local Investor
 16,Bert California,Kid
 17,Betsy Halpert,Mom
@@ -31,7 +31,7 @@ CharacterID,CharacterName,CharacterOccupation
 29,Carla Fern,Talent Agent
 30,Carol Stills,Realtor
 31,Casey Dean,Singer
-32,Cathy Simms,Temporary receptionist
+32,Cathy Simms,Temporary Receptionist
 33,Cecelia Halpert,Kid
 34,Chad Ligh,Newspaper Writer
 35,Charles Minor,Vice President of Northeast Salesman
@@ -59,3 +59,17 @@ CharacterID,CharacterName,CharacterOccupation
 57,Diane Kelly,Attorney
 58,Drake Howard,Kid
 59,Dwight Schrute,"Salesman,Staples Salesman,Property Manager,Farm Owner,Dunder Mifflin Branch Manager"
+60,Ed Truck,Dunder Mifflin Branch Manager
+61,Edward R. Meow,Puppet
+62,Elbert Lapin,None
+63,Eldred,Hay World Creator
+64,Elizabeth,Stripper
+65,Ellen Bernard,None
+66,Eric,Intern
+67,Eric Ward,Investment Banker
+68,Erik,Cress Tool & Die Employee
+69,Erin Hannon,Receptionist
+70,Erin's Father,None
+71,Erin's Mother,None
+72,Esther Bruegger,Brussels Sprouts Farmer
+73,Evan,Hamermill Representative
