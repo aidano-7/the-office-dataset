@@ -6,9 +6,9 @@ CharacterID,CharacterName,CharacterOccupation
 4,Alex,Student
 5,Alice,Marketing Consultant
 6,Amy,None
-7,Andy Bernand,Salesman
+7,Andy Bernand,"Salesman,Dunder Mifflin Branch Manager,Cornell Admissions Director"
 8,Angela Martin,Accountant
-9,Angelo Grotti,Insurance Salesman
+9,Angelo Grotti,"Insurance Salesman,Mobster"
 10,Arnie Rissman,Hamermill Representative
 11,Asian Jim,Actor
 12,Astrid Levinson,Kid
@@ -23,7 +23,7 @@ CharacterID,CharacterName,CharacterOccupation
 21,Brandon,Owner of resturant
 22,Brenda Matlowe,Corporate Trainer
 23,Brian,Boom Operator
-24,Broccoli Rob,Unknown
+24,Broccoli Rob,Cornell Employee
 25,Mr. Brown,Diversity Today Trainer
 26,Bruce,Warehouse worker
 27,Captin Jack,Boat Captain
@@ -38,23 +38,24 @@ CharacterID,CharacterName,CharacterOccupation
 36,Chet Montgomery,Meteorologist
 37,Chris Kotter,Improv Teacher
 38,Christian,Lackawanna County Representative
-39,Clark,Lactation Consultant
-40,Clark Green,Customer Service Representative
-41,Colin,Athlead Partner
-42,Concierge Marie,Concierge
-43,Craig,Dunder Mifflin Branch Manager
-44,Creed Braton,Quality Assurance
-45,Cynthia,Nurse
-46,Dan,Dermatologist
-47,Dan Gore,Dunder Mifflin Branch Manager
-48,Danny Cordray,Traveling Salesman
-49,Darryl Philbin,Warehouse Foreman
-50,David Wallace,CFO
-51,Deangelo Vickers,Dunder Mifflin Branch Manager
-52,Debbie Brown,Paper Mill Employee
-53,Deborah Shoshlefski,Model
-54,Dennis,Veterinarian
-55,Devon White,Quality Assurance
-56,Diane Kelly,Attorney
-57,Drake Howard,Kid
-58,Dwight Schrute,Salesman
+39,Christian Slater,"Spokesperson for Sabre,Actor"
+40,Clark,Lactation Consultant
+41,Clark Green,"Customer Service Representative,Junior Salesman"
+42,Colin,Athlead Partner
+43,Concierge Marie,Concierge
+44,Craig,Dunder Mifflin Branch Manager
+45,Creed Braton,"Quality Assurance,Acting Manager"
+46,Cynthia,Nurse
+47,Dan,Dermatologist
+48,Dan Gore,Dunder Mifflin Branch Manager
+49,Danny Cordray,"Traveling Salesman,Model"
+50,Darryl Philbin,"Warehouse Foreman,Athlead Partner"
+51,David Wallace,CFO
+52,Deangelo Vickers,Dunder Mifflin Branch Manager
+53,Debbie Brown,Paper Mill Employee
+54,Deborah Shoshlefski,Model
+55,Dennis,Veterinarian
+56,Devon White,Quality Assurance
+57,Diane Kelly,Attorney
+58,Drake Howard,Kid
+59,Dwight Schrute,"Salesman,Staples Salesman,Property Manager,Farm Owner,Dunder Mifflin Branch Manager"
