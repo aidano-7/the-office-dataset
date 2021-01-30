@@ -12,7 +12,7 @@ CharacterID,CharacterName,CharacterOccupation,PlayedBy
 10010,Arnie Rissman,Hammermill Representative,None
 10011,Asian Jim,Actor,Randall Park
 10012,Astrid Levinson,Kid,Molly Burk
-10013,Aunt Shirley, None,Mary Gillis
+10013,Aunt Shirley," None",Mary Gillis
 10014,Barbara Allen,None,Lisa Darr
 10015,Barbara Keevis,Local Investor,Connie Sawyer
 10016,Bert California,Kid,David Mazouz
@@ -76,3 +76,14 @@ CharacterID,CharacterName,CharacterOccupation,PlayedBy
 10075,Finger Lakes Guy,None,Jim Carrey
 10076,Frank,Warehouse Worker,Brad William Henke
 10077,Fred Henry,None,Will Arnett
+10078,Gabe Lewis,VP of Northeastern Sales,Zach Woods
+10079,Gerald Halpert,None,Robert Pine
+10080,Gideon,Warehouse Worker,Michael Daniel Cassady
+10081,Gil,None,Tom W. Chick
+10082,Gino,Deliveryman,Lee Eisnberg
+10083,Glenn,None,Brad Morris
+10084,Glenn,Warehouse Worker,Calvin Tenner
+10085,Glove Girl,None,Katie Aselton
+10086,Gordon,Benjamin Franklin impersonator,Andrew Daly
+10087,Grace,Receptionist,Vivianne Collins
+10088,Gwyneth Philbin,None,Jahmilla Jackson
