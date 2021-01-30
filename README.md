@@ -6,6 +6,8 @@ This is a dataset about [The Office US](https://www.peacocktv.com/stream-tv/the-
 2. Seasons
 3. Characters
 
+The data for this repo was found [here](https://theoffice.fandom.com/wiki/Main_Page)
+
 ## Future Goals
 We soon hope to have these in the dataset:
 1. Character Relationships
