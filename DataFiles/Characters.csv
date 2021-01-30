@@ -1,80 +1,78 @@
-CharacterID,CharacterName,CharacterOccupation
-0,A.J,Salesman
-1,Abby,Kid
-2,Alan,Cartoon Artist
-3,Alan Bran,CEO
-4,Alex,Student
-5,Alice,Marketing Consultant
-6,Amy,None
-7,Andy Bernand,"Salesman,Dunder Mifflin Branch Manager,Cornell Admissions Director"
-8,Angela Martin,Accountant
-9,Angelo Grotti,"Insurance Salesman,Mobster"
-10,Arnie Rissman,Hammermill Representative
-11,Asian Jim,Actor
-12,Astrid Levinson,Kid
-13,Aunt Shirley, None
-14,Barbara Allen,None
-15,Barbara Keevis,Local Investor
-16,Bert California,Kid
-17,Betsy Halpert,Mom
-18,Bill Cress,Owner of Cress Tool & Die
-19,Billy Merchant,Property Manager
-20,Bob Vance,Owner of Vance Refridgeration
-21,Brandon,Owner of resturant
-22,Brenda Matlowe,Corporate Trainer
-23,Brian,Boom Operator
-24,Broccoli Rob,Cornell Employee
-25,Mr. Brown,Diversity Today Trainer
-26,Bruce,Warehouse Worker
-27,Captin Jack,Boat Captain
-28,Carla,Youth Minister
-29,Carla Fern,Talent Agent
-30,Carol Stills,Realtor
-31,Casey Dean,Singer
-32,Cathy Simms,Temporary Receptionist
-33,Cecelia Halpert,Kid
-34,Chad Ligh,Newspaper Writer
-35,Charles Minor,Vice President of Northeast Salesman
-36,Chet Montgomery,Meteorologist
-37,Chris Kotter,Improv Teacher
-38,Christian,Lackawanna County Representative
-39,Christian Slater,"Spokesperson for Sabre,Actor"
-40,Clark,Lactation Consultant
-41,Clark Green,"Customer Service Representative,Junior Salesman"
-42,Colin,Athlead Partner
-43,Concierge Marie,Concierge
-44,Craig,Dunder Mifflin Branch Manager
-45,Creed Braton,"Quality Assurance,Acting Manager"
-46,Cynthia,Nurse
-47,Dan,Dermatologist
-48,Dan Gore,Dunder Mifflin Branch Manager
-49,Danny Cordray,"Traveling Salesman,Model"
-50,Darryl Philbin,"Warehouse Foreman,Athlead Partner"
-51,David Wallace,CFO
-52,Deangelo Vickers,Dunder Mifflin Branch Manager
-53,Debbie Brown,Paper Mill Employee
-54,Deborah Shoshlefski,Model
-55,Dennis,Veterinarian
-56,Devon White,Quality Assurance
-57,Diane Kelly,Attorney
-58,Drake Howard,Kid
-59,Dwight Schrute,"Salesman,Staples Salesman,Property Manager,Farm Owner,Dunder Mifflin Branch Manager"
-60,Ed Truck,Dunder Mifflin Branch Manager
-61,Edward R. Meow,Puppet
-62,Elbert Lapin,None
-63,Eldred,Hay World Creator
-64,Elizabeth,Stripper
-65,Ellen Bernard,None
-66,Eric,Intern
-67,Eric Ward,Investment Banker
-68,Erik,Cress Tool & Die Employee
-69,Erin Hannon,Receptionist
-70,Erin's Father,None
-71,Erin's Mother,None
-72,Esther Bruegger,Brussels Sprouts Farmer
-73,Evan,Hammermill Representative
-74,Fannie Schrute,None
-75,Fern Widgale,None
-76,Finger Lakes Guy,None
-77,Frank,Warehouse Worker
-78,Fred Henry,None
+CharacterID,CharacterName,CharacterOccupation,PlayedBY
+0,A.J,Salesman,Rob Huebel
+1,Abby,Kid,Haley Daniels
+2,Alan,Cartoon Artist,Robert Bagnell
+3,Alan Bran,CEO,Alan Fudge
+4,Alex,Student,Rich Sommer
+5,Alice,Marketing Consultant,Rich Sommer
+6,Amy,None,Janine Poreba
+7,Andy Bernand,"Salesman,Dunder Mifflin Branch Manager,Cornell Admissions Director",Ed Helms
+8,Angela Martin,Accountant,Angela Kinsey
+9,Angelo Grotti,"Insurance Salesman,Mobster",Mike Starr
+10,Arnie Rissman,Hammermill Representative,None
+11,Asian Jim,Actor,Randall Park
+12,Astrid Levinson,Kid,Molly Burk
+13,Aunt Shirley, None,Mary Gillis
+14,Barbara Allen,None,Lisa Darr
+15,Barbara Keevis,Local Investor,Connie Sawyer
+16,Bert California,Kid,David Mazouz
+17,Betsy Halpert,Mom,Perry Smith
+18,Bill Cress,Owner of Cress Tool & Die,Terrence Beasor
+19,Billy Merchant,Property Manager,Marcus A. York
+20,Bob Vance,Owner of Vance Refridgeration,Bobby Ray Shafer
+21,Brandon,Owner of resturant,Jerry Minor
+22,Brenda Matlowe,Corporate Trainer,Brenda Withers
+23,Brian,Boom Operator,Chris Diamantopoulos
+24,Broccoli Rob,Cornell Employee,Stephen Colbert
+25,Mr. Brown,Diversity Today Trainer,Larry Wilmore
+26,Bruce,Warehouse Worker,Mike E. Winfield
+27,Captin Jack,Boat Captain,Rob Riggle
+28,Carla,Youth Minister,Zoe Jarman
+29,Carla Fern,Talent Agent,Roseanne Barr
+30,Carol Stills,Realtor,Nancy Carell
+31,Casey Dean,Singer,Jessica St. Clair
+32,Cathy Simms,Temporary Receptionist,Lindsey Broad
+33,Cecelia Halpert,Kid,"Mia Cavolic,Bailey Strull,Sienna Strull"
+34,Chad Ligh,Newspaper Writer,Anthony Russell
+35,Charles Minor,Vice President of Northeast Salesman,Idris Elba
+36,Chet Montgomery,Meteorologist,Damani Roberts
+37,Chris Kotter,Improv Teacher,Michael Naughton
+38,Christian,Lackawanna County Representative,Tim Meadows
+39,Christian Slater,"Spokesperson for Sabre,Actor",Christian Slater
+40,Clark,Lactation Consultant,Lee Kirk
+41,Clark Green,"Customer Service Representative,Junior Salesman",Clark Duke
+42,Colin,Athlead Partner,Sam Richardson
+43,Concierge Marie,Concierge,Sam Richardson
+44,Craig,Dunder Mifflin Branch Manager,Craig Anton
+45,Creed Braton,"Quality Assurance,Acting Manager",Creed Bratton
+46,Cynthia,Nurse,Algerita Wynn Lewis
+47,Dan,Dermatologist,Dan Goor
+48,Dan Gore,Dunder Mifflin Branch Manager,Dan Cole
+49,Danny Cordray,"Traveling Salesman,Model",Timothy Olyphant
+50,Darryl Philbin,"Warehouse Foreman,Athlead Partner",Craig Robinson
+51,David Wallace,CFO,Andy Buckley
+52,Deangelo Vickers,Dunder Mifflin Branch Manager,Will Ferrell
+54,Deborah Shoshlefski,Model,April Eden
+55,Dennis,Veterinarian,Cooper Thornton
+56,Devon White,Quality Assurance,Devon Abner
+57,Diane Kelly,Attorney,Holly Maples
+58,Drake Howard,Kid,None
+59,Dwight Schrute,"Salesman,Staples Salesman,Property Manager,Farm Owner,Dunder Mifflin Branch Manager",Rainn Wilson
+60,Ed Truck,Dunder Mifflin Branch Manager,Ken Howard
+61,Edward R. Meow,Puppet,None
+62,Elbert Lapin,None,Hansford Rowe
+63,Elizabeth,Stripper,Jackie Debatin
+64,Ellen Bernard,None,Dee Wallace
+65,Eric,Intern,Max Carver
+66,Eric Ward,Investment Banker,David Costabile
+67,Erik,Cress Tool & Die Employee,Jason Rogel
+68,Erin Hannon,Receptionist,Jason Rogel
+69,Erin's Father,None,Ed Begley Jr.
+70,Erin's Mother,None,Joan Cusack
+71,Esther Bruegger,Brussels Sprouts Farmer,Nora Kirkpatrick
+72,Evan,Hammermill Representative,Matt Price
+73,Fannie Schrute,None,Majandra Delfino
+74,Fern Widgale,None,Greg Daniels
+75,Finger Lakes Guy,None,Jim Carrey
+76,Frank,Warehouse Worker,Brad William Henke
+77,Fred Henry,None,Will Arnett
