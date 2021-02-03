@@ -1,118 +1,127 @@
-CharacterID,CharacterName,CharacterOccupation,PlayedBy
-10001,A.J,Salesman,Rob Huebel
-10002,Abby,Kid,Haley Daniels
-10003,Alan,Cartoon Artist,Robert Bagnell
-10004,Alan Bran,CEO,Alan Fudge
-10005,Alex,Student,Rich Sommer
-10006,Alice,Marketing Consultant,Rich Sommer
-10007,Amy,None,Janine Poreba
-10008,Andy Bernand,"Salesman,Dunder Mifflin Branch Manager,Cornell Admissions Director",Ed Helms
-10009,Angela Martin,Accountant,Angela Kinsey
-10010,Angelo Grotti,"Insurance Salesman,Mobster",Mike Starr
-10011,Arnie Rissman,Hammermill Representative,None
-10012,Asian Jim,Actor,Randall Park
-10013,Astrid Levinson,Kid,Molly Burk
-10014,Aunt Shirley," None",Mary Gillis
-10015,Barbara Allen,None,Lisa Darr
-10016,Barbara Keevis,Local Investor,Connie Sawyer
-10017,Bert California,Kid,David Mazouz
-10018,Betsy Halpert,Mom,Perry Smith
-10019,Bill Cress,Owner of Cress Tool & Die,Terrence Beasor
-10020,Billy Merchant,Property Manager,Marcus A. York
-10021,Bob Vance,Owner of Vance Refridgeration,Bobby Ray Shafer
-10022,Brandon,Owner of resturant,Jerry Minor
-10023,Brenda Matlowe,Corporate Trainer,Brenda Withers
-10024,Brian,Boom Operator,Chris Diamantopoulos
-10025,Broccoli Rob,Cornell Employee,Stephen Colbert
-10026,Mr. Brown,Diversity Today Trainer,Larry Wilmore
-10027,Bruce,Warehouse Worker,Mike E. Winfield
-10028,Captin Jack,Boat Captain,Rob Riggle
-10029,Carla,Youth Minister,Zoe Jarman
-10030,Carla Fern,Talent Agent,Roseanne Barr
-10031,Carol Stills,Realtor,Nancy Carell
-10032,Casey Dean,Singer,Jessica St. Clair
-10033,Cathy Simms,Temporary Receptionist,Lindsey Broad
-10034,Cecelia Halpert,Kid,"Mia Cavolic,Bailey Strull,Sienna Strull"
-10035,Chad Ligh,Newspaper Writer,Anthony Russell
-10036,Charles Minor,Vice President of Northeast Salesman,Idris Elba
-10037,Chet Montgomery,Meteorologist,Damani Roberts
-10038,Chris Kotter,Improv Teacher,Michael Naughton
-10039,Christian,Lackawanna County Representative,Tim Meadows
-10040,Christian Slater,"Spokesperson for Sabre,Actor",Christian Slater
-10041,Clark,Lactation Consultant,Lee Kirk
-10042,Clark Green,"Customer Service Representative,Junior Salesman",Clark Duke
-10043,Colin,Athlead Partner,Sam Richardson
-10044,Concierge Marie,Concierge,Sam Richardson
-10045,Craig,Dunder Mifflin Branch Manager,Craig Anton
-10046,Creed Braton,"Quality Assurance,Acting Manager",Creed Bratton
-10047,Cynthia,Nurse,Algerita Wynn Lewis
-10048,Dan,Dermatologist,Dan Goor
-10049,Dan Gore,Dunder Mifflin Branch Manager,Dan Cole
-10050,Danny Cordray,"Traveling Salesman,Model",Timothy Olyphant
-10051,Darryl Philbin,"Warehouse Foreman,Athlead Partner",Craig Robinson
-10052,David Wallace,CFO,Andy Buckley
-10053,Deangelo Vickers,Dunder Mifflin Branch Manager,Will Ferrell
-10055,Deborah Shoshlefski,Model,April Eden
-10056,Dennis,Veterinarian,Cooper Thornton
-10057,Devon White,Quality Assurance,Devon Abner
-10058,Diane Kelly,Attorney,Holly Maples
-10059,Drake Howard,Kid,None
-10060,Dwight Schrute,"Salesman,Staples Salesman,Property Manager,Farm Owner,Dunder Mifflin Branch Manager",Rainn Wilson
-10061,Ed Truck,Dunder Mifflin Branch Manager,Ken Howard
-10062,Edward R. Meow,Puppet,None
-10063,Elbert Lapin,None,Hansford Rowe
-10064,Elizabeth,Stripper,Jackie Debatin
-10065,Ellen Bernard,None,Dee Wallace
-10066,Eric,Intern,Max Carver
-10067,Eric Ward,Investment Banker,David Costabile
-10068,Erik,Cress Tool & Die Employee,Jason Rogel
-10069,Erin Hannon,Receptionist,Jason Rogel
-10070,Erin's Father,None,Ed Begley Jr.
-10071,Erin's Mother,None,Joan Cusack
-10072,Esther Bruegger,Brussels Sprouts Farmer,Nora Kirkpatrick
-10073,Evan,Hammermill Representative,Matt Price
-10074,Fannie Schrute,None,Majandra Delfino
-10075,Fern Widgale,None,Greg Daniels
-10076,Finger Lakes Guy,None,Jim Carrey
-10077,Frank,Warehouse Worker,Brad William Henke
-10078,Fred Henry,None,Will Arnett
-10079,Gabe Lewis,VP of Northeastern Sales,Zach Woods
-10080,Gerald Halpert,None,Robert Pine
-10081,Gideon,Warehouse Worker,Michael Daniel Cassady
-10082,Gil,None,Tom W. Chick
-10083,Gino,Deliveryman,Lee Eisnberg
-10084,Glenn,None,Brad Morris
-10085,Glenn,Warehouse Worker,Calvin Tenner
-10086,Glove Girl,None,Katie Aselton
-10087,Gordon,Benjamin Franklin impersonator,Andrew Daly
-10088,Grace,Receptionist,Vivianne Collins
-10089,Gwyneth Philbin,None,Jahmilla Jackson
-10090,Hank Tate,Security Gaurd,Hugh Dane
-10091,Hannah Smoterich-Barr,Accountant,Ursula Burton
-10092,Helene Beesly,None,Linda Purl
-10093,Hidetoshi Hasagawa,"Heart Surgeon,Warehouse Worker",Hidetoshi Imura
-10094,Holly Flax,Human Resources,Amy Ryan
-10095,Hunter Raymond,Corporate Assistant,Nicholas D'Agosto
-10096,Irene,None,Georgia Engel
-10097,Isabel Poreba,Dental Hygienist,Kelen Coleman
-10098,Jada Philbin,Kid,Taylar Hollomon
-10099,Jake Palmer,Stripper,Spencer Daniels
-10100,James P. Albini,Lawyer,Dennis Garber
-10101,Jamie,Student,Shira Scott Astrof
-10102,Jan Levinson,Vice President of Northeastern Sales,Melora Hardin
-10103,Jeb Schrute,Marijuana Farmer,Thomas Middleditch
-10104,Jerry DiCanio,Warehouse Worker,Matt DeCaro
-10105,Jessica,Assistant Cross Country Coach,Eleanor Seigler
-10106,Jessica,Receptionist,Alyssa Preston
-10107,Jim Halpert,"President of New Acquisitions,Salesman",John Krasinski
-10108,Jo Bennett,CEO,Kathy Bates
-10109,Jordan Garfield,Executive assistant,Cody Horn
-10110,Julie,ESL Teacher,Laurie Noughton Okin
-10110,Justine Philbin,None,	Erica Vittina Phillips
-10111,Karen Filippelli,"Salesman,Dunder Mifflin Regional Manager",Rashida Jones
-10112,Katy,Handbag saleswoman,Amy Adams
-10113,Kelly Kapoor,Customer Service Representative,Mindy Kaling
-10114,Kendall,Human Resources,John Hartmann
-10115,Kenny Anderson,None,Michael Patrick McGill
-10116,Kevin Malone,"Bar Owner,Accountant",Brian Baumgartner
-10117,Kevin's Sister,Actress,Heather Marie Marsden
+CharacterID,CharacterName,CharacterOccupation,PlayedBy,AdditionalInformation
+10001,A.J,Salesman,Rob Huebel,'{}'
+10002,Abby,Kid,Haley Daniels,'{}'
+10003,Alan,Cartoon Artist,Robert Bagnell,'{}'
+10004,Alan Bran,CEO,Alan Fudge,'{}'
+10005,Alex,Student,Rich Sommer,'{}'
+10006,Alice,Marketing Consultant,Rich Sommer,'{}'
+10007,Amy,None,Janine Poreba,'{}'
+10008,Andy Bernand,"Salesman,Dunder Mifflin Branch Manager,Cornell Admissions Director",Ed Helms,'{}'
+10009,Angela Martin,Accountant,Angela Kinsey,'{}'
+10010,Angelo Grotti,"Insurance Salesman,Mobster",Mike Starr,'{}'
+10011,Arnie Rissman,Hammermill Representative,None,'{}'
+10012,Asian Jim,Actor,Randall Park,'{}'
+10013,Astrid Levinson,Kid,Molly Burk,'{}'
+10014,Aunt Shirley," None",Mary Gillis,'{}'
+10015,Barbara Allen,None,Lisa Darr,'{}'
+10016,Barbara Keevis,Local Investor,Connie Sawyer,'{}'
+10017,Bert California,Kid,David Mazouz,'{}'
+10018,Betsy Halpert,Mom,Perry Smith,'{}'
+10019,Bill Cress,Owner of Cress Tool & Die,Terrence Beasor,'{}'
+10020,Billy Merchant,Property Manager,Marcus A. York,'{}'
+10021,Bob Vance,Owner of Vance Refridgeration,Bobby Ray Shafer,'{}'
+10022,Brandon,Owner of resturant,Jerry Minor,'{}'
+10023,Brenda Matlowe,Corporate Trainer,Brenda Withers,'{}'
+10024,Brian,Boom Operator,Chris Diamantopoulos,'{}'
+10025,Broccoli Rob,Cornell Employee,Stephen Colbert,'{}'
+10026,Mr. Brown,Diversity Today Trainer,Larry Wilmore,'{}'
+10027,Bruce,Warehouse Worker,Mike E. Winfield,'{}'
+10028,Captin Jack,Boat Captain,Rob Riggle,'{}'
+10029,Carla,Youth Minister,Zoe Jarman,'{}'
+10030,Carla Fern,Talent Agent,Roseanne Barr,'{}'
+10031,Carol Stills,Realtor,Nancy Carell,'{}'
+10032,Casey Dean,Singer,Jessica St. Clair,'{}'
+10033,Cathy Simms,Temporary Receptionist,Lindsey Broad,'{}'
+10034,Cecelia Halpert,Kid,"Mia Cavolic,Bailey Strull,Sienna Strull",'{}'
+10035,Chad Ligh,Newspaper Writer,Anthony Russell,'{}'
+10036,Charles Minor,Vice President of Northeast Salesman,Idris Elba,'{}'
+10037,Chet Montgomery,Meteorologist,Damani Roberts,'{}'
+10038,Chris Kotter,Improv Teacher,Michael Naughton,'{}'
+10039,Christian,Lackawanna County Representative,Tim Meadows,'{}'
+10040,Christian Slater,"Spokesperson for Sabre,Actor",Christian Slater,'{}'
+10041,Clark,Lactation Consultant,Lee Kirk,'{}'
+10042,Clark Green,"Customer Service Representative,Junior Salesman",Clark Duke,'{}'
+10043,Colin,Athlead Partner,Sam Richardson,'{}'
+10044,Concierge Marie,Concierge,Sam Richardson,'{}'
+10045,Craig,Dunder Mifflin Branch Manager,Craig Anton,'{}'
+10046,Creed Braton,"Quality Assurance,Acting Manager",Creed Bratton,'{}'
+10047,Cynthia,Nurse,Algerita Wynn Lewis,'{}'
+10048,Dan,Dermatologist,Dan Goor,'{}'
+10049,Dan Gore,Dunder Mifflin Branch Manager,Dan Cole,'{}'
+10050,Danny Cordray,"Traveling Salesman,Model",Timothy Olyphant,'{}'
+10051,Darryl Philbin,"Warehouse Foreman,Athlead Partner",Craig Robinson,'{}'
+10052,David Wallace,CFO,Andy Buckley,'{}'
+10053,Deangelo Vickers,Dunder Mifflin Branch Manager,Will Ferrell,'{}'
+10055,Deborah Shoshlefski,Model,April Eden,'{}'
+10056,Dennis,Veterinarian,Cooper Thornton,'{}'
+10057,Devon White,Quality Assurance,Devon Abner,'{}'
+10058,Diane Kelly,Attorney,Holly Maples,'{}'
+10059,Drake Howard,Kid,None,'{}'
+10060,Dwight Schrute,"Salesman,Staples Salesman,Property Manager,Farm Owner,Dunder Mifflin Branch Manager",Rainn Wilson,'{}'
+10061,Ed Truck,Dunder Mifflin Branch Manager,Ken Howard,'{}'
+10062,Edward R. Meow,Puppet,None,'{}'
+10063,Elbert Lapin,None,Hansford Rowe,'{}'
+10064,Elizabeth,Stripper,Jackie Debatin,'{}'
+10065,Ellen Bernard,None,Dee Wallace,'{}'
+10066,Eric,Intern,Max Carver,'{}'
+10067,Eric Ward,Investment Banker,David Costabile,'{}'
+10068,Erik,Cress Tool & Die Employee,Jason Rogel,'{}'
+10069,Erin Hannon,Receptionist,Jason Rogel,'{}'
+10070,Erin's Father,None,Ed Begley Jr.,'{}'
+10071,Erin's Mother,None,Joan Cusack,'{}'
+10072,Esther Bruegger,Brussels Sprouts Farmer,Nora Kirkpatrick,'{}'
+10073,Evan,Hammermill Representative,Matt Price,'{}'
+10074,Fannie Schrute,None,Majandra Delfino,'{}'
+10075,Fern Widgale,None,Greg Daniels,'{}'
+10076,Finger Lakes Guy,None,Jim Carrey,'{}'
+10077,Frank,Warehouse Worker,Brad William Henke,'{}'
+10078,Fred Henry,None,Will Arnett,'{}'
+10079,Gabe Lewis,VP of Northeastern Sales,Zach Woods,'{}'
+10080,Gerald Halpert,None,Robert Pine,'{}'
+10081,Gideon,Warehouse Worker,Michael Daniel Cassady,'{}'
+10082,Gil,None,Tom W. Chick,'{}'
+10083,Gino,Deliveryman,Lee Eisnberg,'{}'
+10084,Glenn,None,Brad Morris,'{}'
+10085,Glenn,Warehouse Worker,Calvin Tenner,'{}'
+10086,Glove Girl,None,Katie Aselton,'{}'
+10087,Gordon,Benjamin Franklin impersonator,Andrew Daly,'{}'
+10088,Grace,Receptionist,Vivianne Collins,'{}'
+10089,Gwyneth Philbin,None,Jahmilla Jackson,'{}'
+10090,Hank Tate,Security Gaurd,Hugh Dane,'{}'
+10091,Hannah Smoterich-Barr,Accountant,Ursula Burton,'{}'
+10092,Helene Beesly,None,Linda Purl,'{}'
+10093,Hidetoshi Hasagawa,"Heart Surgeon,Warehouse Worker",Hidetoshi Imura,'{}'
+10094,Holly Flax,Human Resources,Amy Ryan,'{}'
+10095,Hunter Raymond,Corporate Assistant,Nicholas D'Agosto,'{}'
+10096,Irene,None,Georgia Engel,'{}'
+10097,Isabel Poreba,Dental Hygienist,Kelen Coleman,'{}'
+10098,Jada Philbin,Kid,Taylar Hollomon,'{}'
+10099,Jake Palmer,Stripper,Spencer Daniels,'{}'
+10100,James P. Albini,Lawyer,Dennis Garber,'{}'
+10101,Jamie,Student,Shira Scott Astrof,'{}'
+10102,Jan Levinson,Vice President of Northeastern Sales,Melora Hardin,'{}'
+10103,Jeb Schrute,Marijuana Farmer,Thomas Middleditch,'{}'
+10104,Jerry DiCanio,Warehouse Worker,Matt DeCaro,'{}'
+10105,Jessica,Assistant Cross Country Coach,Eleanor Seigler,'{}'
+10106,Jessica,Receptionist,Alyssa Preston,'{}'
+10107,Jim Halpert,"President of New Acquisitions,Salesman",John Krasinski,'{}'
+10108,Jo Bennett,CEO,Kathy Bates,'{}'
+10109,Jordan Garfield,Executive assistant,Cody Horn,'{}'
+10110,Julie,ESL Teacher,Laurie Noughton Okin,'{}'
+10110,Justine Philbin,None,Erica Vittina Phillips,'{}'
+10111,Karen Filippelli,"Salesman,Dunder Mifflin Regional Manager",Rashida Jones,'{}'
+10112,Katy,Handbag saleswoman,Amy Adams,'{}'
+10113,Kelly Kapoor,Customer Service Representative,Mindy Kaling,'{}'
+10114,Kendall,Human Resources,John Hartmann,'{}'
+10115,Kenny Anderson,None,Michael Patrick McGill,'{}'
+10116,Kevin Malone,"Bar Owner,Accountant",Brian Baumgartner,'{}'
+10117,Kevin's Sister,Actress,Heather Marie Marsden,'{}'
+10118,Laura Anderson,None,Sara Chase,'{}'
+10119,Leo,Deliveryman,Gene Stupnitsky,'{}'
+10120,Lester Schneider,Attorney,Patrick O'Connor,'{}'
+10121,Lily,Movie Character,Cloris Leachman,'{}'
+10122,Linda,Urinalysis Technician,Marilyn Brett,'{}'
+10123,Lloyd Gross,Salesman,None,'{}'
+10124,Lonny Collins,Warehouse Worker,Patrice O'Neal,'{}'
+10125,Luke Cooper,Intern,Evan Peters,'{}'
+10126,Lynn,Scranton Business Park staff,Lisa K. Wyatt,'{}'
